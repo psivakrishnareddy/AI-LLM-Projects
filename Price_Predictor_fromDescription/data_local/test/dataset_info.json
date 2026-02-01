@@ -1,0 +1,40 @@
+{
+  "citation": "",
+  "description": "",
+  "features": {
+    "title": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "category": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "price": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "full": {
+      "dtype": "null",
+      "_type": "Value"
+    },
+    "weight": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "summary": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "prompt": {
+      "dtype": "null",
+      "_type": "Value"
+    },
+    "id": {
+      "dtype": "null",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": ""
+}
